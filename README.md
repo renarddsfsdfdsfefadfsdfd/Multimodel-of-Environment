@@ -1,5 +1,6 @@
 # Fipronil Residue Dynamic Simulation Tool
-
+## Author
+Yaolin Zhang
 ## 🧪 Project Overview
 A comprehensive GUI-based simulation tool for modeling the dynamic accumulation and depletion of fipronil pesticide residues in fish tissues. The tool implements a mass-balance fugacity model with numerical integration to predict residue concentrations over time, incorporating uncertainty analysis through sensitivity-based prediction bands.
 
